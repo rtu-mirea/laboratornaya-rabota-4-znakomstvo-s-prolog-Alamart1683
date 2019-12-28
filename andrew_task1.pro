@@ -34,5 +34,6 @@ goal
 	child(Who,bob). 
 	ancestor(jim, tom). 
 	ancestor(pat,Who). 
-	*/
 	ancestor(Who,Bob).
+	*/
+	female(pam). 
