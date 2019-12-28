@@ -19,7 +19,7 @@ goal
 	/*
 	can_buy(judi, What).
 	person(hot_rod).
-	likes(kelly, hot_rod). 
 	for_sale(lemon).
-	*/
 	can_buy(judy, lemon). 
+	*/
+	likes(kelly, Y). 
